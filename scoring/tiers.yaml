@@ -1,0 +1,36 @@
+tiers:
+  - name: Chad
+    min_score: 9.0
+    max_score: 10.0
+    short: CHAD
+    meme_note: "Apex archetype, top percentile meme energy"
+
+  - name: Chadlite
+    min_score: 7.5
+    max_score: 8.9
+    short: CL
+    meme_note: "Near-apex, one patch away from final form"
+
+  - name: High-Tier Normie
+    min_score: 6.0
+    max_score: 7.4
+    short: HTN
+    meme_note: "Stable mogger zone with visible upside"
+
+  - name: Mid Normie
+    min_score: 4.5
+    max_score: 5.9
+    short: MN
+    meme_note: "Average lane, details decide outcomes"
+
+  - name: Low-Tier Normie
+    min_score: 3.0
+    max_score: 4.4
+    short: LTN
+    meme_note: "Below baseline meme aesthetics, rebuild path"
+
+  - name: Subtier
+    min_score: 0.0
+    max_score: 2.9
+    short: SUB
+    meme_note: "Recovery arc starter, no doomer loop"

@@ -1,0 +1,37 @@
+{
+  "profiles": [
+    {
+      "subject": "mock_user_01",
+      "self_description": "gym 3x/week, sleep inconsistent, trying new haircut",
+      "signals": {
+        "symmetry": 6.2,
+        "jawline": 4.8,
+        "eye_area": 6.8,
+        "ratio_harmony": 5.9,
+        "presentation": 6.5
+      }
+    },
+    {
+      "subject": "mock_user_02",
+      "self_description": "lean cut phase, good lighting, strong side profile",
+      "signals": {
+        "symmetry": 7.9,
+        "jawline": 8.2,
+        "eye_area": 7.1,
+        "ratio_harmony": 7.4,
+        "presentation": 8.0
+      }
+    },
+    {
+      "subject": "mock_user_03",
+      "self_description": "messy style, poor camera angle, low confidence writeup",
+      "signals": {
+        "symmetry": 3.7,
+        "jawline": 2.9,
+        "eye_area": 4.2,
+        "ratio_harmony": 3.6,
+        "presentation": 3.1
+      }
+    }
+  ]
+}
